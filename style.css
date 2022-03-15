@@ -1,0 +1,26 @@
+hr{
+	width: 50%;
+}
+h1{
+    color:black;
+    text-align: center;
+}
+table {
+    width: 100%;
+}
+table, td, th {
+    border: 1px solid black;
+    border-collapse: collapse;
+}
+td, th{
+    padding: 20px;
+}
+th {
+    text-align: left;
+}
+td.type1{
+    text-align: center;
+}
+h2{
+    text-align: center;
+}
